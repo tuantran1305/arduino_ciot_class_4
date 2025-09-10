@@ -1,5 +1,4 @@
 #include "WiFi.h"
-
 const char* ssid = "ABC";
 const char* password = "12345678";
 const char* ap_ssid = "ESP32_AP";

@@ -14,7 +14,7 @@ void setup() {
   pinMode(green_Led, OUTPUT);
   pinMode(blue_Led, OUTPUT);
   pinMode(red_Led, OUTPUT);
-  pinMode(button, INPUT); // hoặc INPUT_PULLUP nếu nối GND
+  pinMode(button, INPUT);
 }
 
 void loop() {
